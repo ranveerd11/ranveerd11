@@ -41,7 +41,7 @@ live products.
 | [Organizely](https://getorganizely.com/) | Lets teams build and automate business workflows | Workflow automation, AI | Built the workflow builder, AI reports and billing; 100+ features shipped in two months |
 | [Winning.Careers](https://winning.careers/) | Matches students with industry experts | WebRTC, SFU, AI matching | Built in-platform video calls, scheduling and a B2B university portal |
 | [OpenCapStack](https://opencapstack.com/) | Cap-table and financial modelling platform | Next.js, Express, MongoDB, ZeroDB | Migrated 30+ models with optimistic locking and zero data loss; >80% test coverage |
-| [NeuroLynxEdu AI](https://github.com/RitikaBobhate/NeuroLynxEdu-AI) (capstone) | Personalised learning from EEG attention signals | React Native, FastAPI, Hugging Face, LlamaCPP, OpenBCI | B.Tech capstone project, built with a teammate |
+| [NeuroLynxEdu AI](https://github.com/RitikaBobhate/NeuroLynxEdu-AI) (capstone) | Personalised learning from EEG attention signals | React Native, FastAPI, Hugging Face, LlamaCPP, OpenBCI | B.Tech capstone project |
 | JalVardhan | Cuts irrigation water waste with soil and weather data | Arduino, IoT, Flask, scikit-learn | 20% less water wasted. Repo: TODO |
 
 ## Tech stack
